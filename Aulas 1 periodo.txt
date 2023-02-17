@@ -1,0 +1,5 @@
+Arquitetura de Computadores
+Desenv. Web em Html5, Css, Javascript e Php
+Introdução à Segurança da Informação
+Paradigmas de Linguagens de Programação em Python
+Pensamento Computacional
